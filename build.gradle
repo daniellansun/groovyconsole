@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    compile files("lib/groovy-all-3.0.0-SNAPSHOT.jar")
+    compile files("lib/groovy-all-2.4.12.jar")
 
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
